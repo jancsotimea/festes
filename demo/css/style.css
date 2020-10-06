@@ -7,7 +7,7 @@ http://www.templatemo.com/tm-479-sigma
 */
 
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 34px;
@@ -15,6 +15,7 @@ body {
 
 h1 {
 	font-size: 34px;
+	color: lightgray;
 }
 
 h2 {
@@ -94,7 +95,7 @@ h2 {
 }
 .sigma-home p {
 	font-size: 24px;
-	color: #555;
+	color: lightgray;
 	line-height: 44px;
 }
 .sigma-home {
@@ -143,6 +144,7 @@ h2 {
 
 .sigma-home p, .sigma-content p, .sigma-section-header p {
 	padding: 20px 0 0 0;
+	color: lightgray;
 }
 
 .form-group {
